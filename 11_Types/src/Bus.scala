@@ -1,0 +1,1 @@
+case class Bus(ticketPerM: Double) extends Vehicle
